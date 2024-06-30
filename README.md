@@ -43,7 +43,7 @@ For an implementation of the [original version of TACTiS](https://arxiv.org/abs/
 Please use the following Bibtex entry to cite TACTiS-2.
 
 ```
-@misc{ashok2023tactis2,
+@misc{cody2023tactis2,
       title={TACTiS-2: Faster, Simpler Attentional Copulas for Multivariate Time Series}, 
       author={Arjun Ashok, Danil Korshunov, Karol Kole},
       year={2023},
